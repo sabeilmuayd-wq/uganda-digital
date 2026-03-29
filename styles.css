@@ -1,0 +1,4 @@
+/* هذا الكود لجعل المنصة تبدو كأنها موقع حكومي رسمي */
+.main { background-color: #f0f2f6; }
+h1 { color: #006747; font-family: 'Arial', sans-serif; } /* لون علم أوغندا الأخضر */
+.stButton>button { background-color: #FFD100; color: black; font-weight: bold; } /* لون الذهب الأوغندي */
